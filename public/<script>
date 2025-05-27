@@ -1,0 +1,11 @@
+document.addEventListener('DOMContentLoaded', function() {
+  const road = document.getElementById('day1road');
+  if (road) {
+    road.addEventListener('click', function() {
+      // Toggle selection
+      road.classList.toggle('selected');
+      // You can also trigger other actions here
+      alert('Day 1 Road selected!');
+    });
+  }
+});
