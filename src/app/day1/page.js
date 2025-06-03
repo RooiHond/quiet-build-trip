@@ -55,8 +55,8 @@ export default function Day1() {
           </p>
           <p>
             We rested for a bit before heading out again, not particularly hungry but wanting to soak in the evening. 
-            Dinner was at the <strong>Clarens Koöperasie</strong>. We shared a basket of food and had <br />alcohol-free beers 
-            while a local duo played sax and guitar. It was pure charm—fun, mellow, <br />a little chaotic. 
+            Dinner was at the <strong>Clarens Koöperasie</strong>. We shared a basket of food and had alcohol-free beers 
+            while a local duo played sax and guitar. It was pure charm—fun, mellow, a little chaotic. 
             A proper celebration of making it this far.
           </p>
           <p>
